@@ -2,3 +2,4 @@ rainbow
 green
 red
 yellow
+blue
