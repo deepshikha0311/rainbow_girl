@@ -1,0 +1,4 @@
+rainbow
+green
+red
+yellow
